@@ -1,6 +1,5 @@
-package org.example;
+package org.klimov;
 
-import javax.xml.parsers.SAXParser;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;

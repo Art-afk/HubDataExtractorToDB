@@ -1,4 +1,4 @@
-package org.example;
+package org.klimov;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package org.example;
+package org.klimov;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
