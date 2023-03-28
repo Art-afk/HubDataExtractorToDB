@@ -1,7 +1,7 @@
-package org.example;
+package org.klimov;
 
-import org.example.models.DatabaseCreate;
-import org.example.models.DatabaseTableCreate;
+import org.klimov.models.DatabaseCreate;
+import org.klimov.models.DatabaseTableCreate;
 import java.io.InputStream;
 import java.util.Properties;
 

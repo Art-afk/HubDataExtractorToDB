@@ -1,9 +1,8 @@
-package org.example;
+package org.klimov;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
-import java.sql.SQLException;
 
 public class CreateDocument {
     private String url;

@@ -1,4 +1,4 @@
-package org.example;
+package org.klimov;
 
 public class StartLoadClients {
 //не нравится данная метод
